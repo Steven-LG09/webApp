@@ -1,5 +1,26 @@
-Intrucciones de instalación
+# 🚗 Car App – React Native
 
+This is a mobile application built with **React Native** that focuses on managing and displaying information about cars using a connected database. The app allows users to explore, interact with, or manage car data in a dynamic interface.
+
+## 📱 Features
+
+- Browse a list of cars with images and key details
+- Add car entries
+- Store and retrieve data from a database
+- Search and filter by brand.
+- Responsive design for various devices
+
+## 🛠️ Technologies Used
+
+- React Native
+- Expo 
+- Firebase
+- React Navigation
+- Context 
+## “Great things never come from comfort zones.”
+## 📦 Installation
+
+```bash
 Asumiendo que nodejs y npm están instalados y funcionando, A Continuación vamos a ejecutar el comando npm install -g react-native-cli en la consola.
 
 La bandera -g significa que está instalando este paquete de manera global. (está disponible en todas partes y no solo en la carpeta actual). 
